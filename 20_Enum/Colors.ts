@@ -1,0 +1,16 @@
+enum  Colors{
+    RED,
+    GREEN,
+    BLUE,
+    YELLOW,
+    VIOLET
+}
+
+for(let color in Colors){
+    console.log(Colors[color])
+}
+// MONTHS ,DAYS,TIME,SEASONS,NAMES 
+// ZOMATO   OREDRED,READY,DELIVERD
+//UBER      PIKUP ARRIVED  DROP
+//REASTURANT ORDER ,PREPARE , SERVE
+//FILM  BOOK , VERIFY ,WATCH ,STOKS ,BETTING 
